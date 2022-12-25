@@ -170,7 +170,7 @@ const styles = {
       <InfoIcon />
       </IconButton>
       
-    </h3>
+    </h3> 
      
      <p style={styles} className="movie-rating">⭐{movie.rating}</p>
 
